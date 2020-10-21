@@ -1,0 +1,4 @@
+Each string is separate
+there are many lines and sometimes
+punctuation. Or else they
+have been removed

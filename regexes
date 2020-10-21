@@ -1,0 +1,4 @@
+P. VERGILI MARONIS
+loc[u|o|i|a][s|m|r]*u*m*[\ |,|.|;|:|\?|'|"|q|!|)|(|]
+
+(qu|ch|ph|th|[^a^e^i^o^u]*)*(ae|au|ei|eu|oe|[aeiou])(([^aeiou]*qu)|[^aeiou]ch|[^aeiou]ph|[^aeiou]th|[^aeiou\s]*)\s?
