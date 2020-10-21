@@ -1,5 +1,5 @@
 # Scansion
-###Summary
+### Summary
 `Scansion.jl` is a collection of functions that take a string input (e.g. "Arma virumque canō, Trōiae quī prīmus ab ōrīs", _Aeneid_ 1.1) and turn it into the correct series of long and short syllables (stored as a vector e.g. [1,0,0,1,0,0,1,1,1,1,1,0,0,1,1]) that represent our modern day recreation of sounds the poet would have intended in the oral tradition, according to standard [scansion rules](http://www.thelatinlibrary.com/satire/scansion.pdf).
 
 The goal of doing this is to eventually be able to quickly access certain summary statistics of the text (e.g. how many lines are heavily spondaic, how many are more dactylic, how many are [hypermetric](/see_all_aeneid_in_one_page/twelvebooks.png) etc. and whether they are clumped together) or if other patterns emerge.
