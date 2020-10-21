@@ -16,6 +16,6 @@ The data (taken from [The Latin Library](https://www.thelatinlibrary.com/vergil/
 * Learning more web programming so more people can use this tool (like on http://logical.ai/arma/) and quickly arrive at hypermetric lines for example
 
 ## Credits
-I was inspired by http://logical.ai/arma/ for the guessing portion of the scanner algorithm.
+Thank you to http://logical.ai/arma/ for inspiration on the guessing portion of the scanner algorithm.
 
-Thank you to Professor Stephen Rupp for supervising my project!
+Thank you to Professor Stephen Rupp, Professor Shaun Ross, and the NFC for supervising my project and giving me so much freedom!
